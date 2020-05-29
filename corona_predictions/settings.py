@@ -25,7 +25,7 @@ SECRET_KEY = os.environ['SECRET_KEY']
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['cov19aipredictions.pythonanywhere.com', 'allpredtai.herokuapp.com']
+ALLOWED_HOSTS = ['cov19aipredictions.pythonanywhere.com', 'herokuapp.com']
 
 
 # Application definition
